@@ -11,9 +11,9 @@ ingredients from a pizza ingredient supply company called Dford to supply them p
 ingredients on credit and pay after sales. 
 The database Pizza_Sale of Linda Pizza was provided to organize and analyse the following task:
 
-1. How many Pizza types contain cheese
-2. How many Pizza types contain tomatoes
-3. How many Pizza types contain bacon
+1. How many Pizza types contain cheese?
+2. How many Pizza types contain tomatoes?
+3. How many Pizza types contain bacon?
 4. Create a visual to show the highest 10 Pizza Id ordered
 5. Create a visual to show the average price of each pizza size
 6. Create a visual to show the average price of each Pizza type regardless of their size
