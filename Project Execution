@@ -1,3 +1,4 @@
 The entire project was executed with Microsoft Excel. The excel file is named pizza_types(version2).
+Power Query, Pivot Chart, and Pivot Table were mainly used.
 The number of pizza type with the ingredients Cheese, Tomatoes and Bacon was found using the COUNTIF function.
 the numbers were recorded as Cheese= 8027, Tomatoes= 27524 and Bacon= 4229
